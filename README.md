@@ -10,7 +10,7 @@ Fork this repository and submit the URL of your fork via the Student Portal.
 Implement a singly linked list:
 
 - You may not use the `LinkedList` or `ArrayList` class or any other predefined Java collections
-- Your linked list must have a node inner class to represent each element
+- Your linked list must have a **node** inner class to represent each element
 - Your linked list must have add, remove, contains, find, size, get, copy and sort methods
 - Method definitions:
 	- add -- add an element to the list
